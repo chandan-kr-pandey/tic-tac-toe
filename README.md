@@ -1,0 +1,1 @@
+Tic-tac-toe is a classic 2-player combinatorial game played on a 3x3 grid . In this game ,players (X and O) take turns placing their marks in the grid.And the first player to form three of their marks in a vertical, horizontal, or diagonal line wins.Also if no player achieves a winning combination, the game ends in a draw. 
